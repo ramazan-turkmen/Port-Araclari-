@@ -33,11 +33,17 @@ https://github.com/ramazan-turkmen
 
 📁 Dosya Yapısı
 port-araclari/
+
 ├── port_araclari.py        # Ana Python dosyası
+
 ├── icon.ico                # (İsteğe bağlı) Arayüz ikonu
+
 ├── logs/
+
 │   └── listener_log.txt    # TCP dinleyici logları
+
 └── README.md               # Bu belge
+
 ________________________________________
 ✨ Katkıda Bulun
 Pull request’lere ve önerilere her zaman açığım. İletişim kurmak veya katkıda bulunmak istersen çekinmeden yaz!
