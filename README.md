@@ -29,13 +29,8 @@ Ek kütüphane yoktur, sadece standart kütüphaneler kullanılmıştır:
 
 ## ⚙️ Kurulum
 
-```bash
-git clone https://github.com/kullanici-adin/port-araclari.git
-cd port-araclari
-python port_araclari.py
-(İsteğe bağlı: .exe derlemek istersen aşağıdaki gibi pyinstaller kullanabilirsin)
-pip install pyinstaller
-pyinstaller --noconsole --onefile --icon=icon.ico port_araclari.py
+https://github.com/ramazan-turkmen
+
 📁 Dosya Yapısı
 port-araclari/
 ├── port_araclari.py        # Ana Python dosyası
@@ -43,8 +38,6 @@ port-araclari/
 ├── logs/
 │   └── listener_log.txt    # TCP dinleyici logları
 └── README.md               # Bu belge
-📜 Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
 ________________________________________
 ✨ Katkıda Bulun
 Pull request’lere ve önerilere her zaman açığım. İletişim kurmak veya katkıda bulunmak istersen çekinmeden yaz!
