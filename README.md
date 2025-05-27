@@ -12,7 +12,8 @@ Bu uygulama, ağ üzerinde temel bağlantı testleri ve port analizleri yapmak a
 
 ## 🖥️ Ekran Görüntüsü
 
-> (Buraya ekran görüntüsü ekleyebilirsin)
+![1](https://github.com/user-attachments/assets/d045c715-de78-4d07-a5c9-8390d7897b0f)
+
 
 ## 🔧 Gereksinimler
 
